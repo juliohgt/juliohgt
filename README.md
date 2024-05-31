@@ -5,8 +5,10 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/juliohgoes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:juliohgoes@gmail.com?subject=Olá%20Julio"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+  <div>    
+  <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/juliohgt?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliohgt&layout=compact&title_color=55A48C&text_color=fff&bg_color=0d1117&border_color=fff0" />  
+</div>
 </p>
 
 <hr>
@@ -24,7 +26,9 @@
   <p align='center'>
     <h5>Backend:&nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/.Net%20Core%20-%231572B6.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/.Net%20Framework%20-%231572B6.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;    
+    <img src="https://img.shields.io/badge/.Net%20Framework%20-%231572B6.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Docker-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/RabbitMQ-%231572B6.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white&color=orange" />&nbsp;&nbsp;&nbsp;
     </h5>
   </p>
 </div>
@@ -42,10 +46,7 @@
 <div id="row2">
 <div class="column-left">
   <p align='center'>
-    <h5>🌱 I'm currently learning:&nbsp;&nbsp;&nbsp; 
-    <img src="https://img.shields.io/badge/Docker-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/RabbitMQ-%231572B6.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white&color=orange" />&nbsp;&nbsp;&nbsp;
-    </h5>
+   
   </p>
 </div>
 </div>
@@ -60,10 +61,10 @@
 </div>
 
 <hr>
-
+<!--
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=juliohgt&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,e96443,904e95&count_private=true&include_all_commits=true"/>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliohgt&layout=compact&title_color=fff&text_color=fff&bg_color=30,e96443,904e95" />
-
+-->
 <!--
 **juliohgt/juliohgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
